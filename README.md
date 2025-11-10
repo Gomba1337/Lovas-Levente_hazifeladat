@@ -1,0 +1,1 @@
+# Lovas-Levente_hazifeladat
