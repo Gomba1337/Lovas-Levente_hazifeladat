@@ -1,7 +1,7 @@
 import random
 
 lista = []
-for _ in range(5):
+for x in range(5):
     szam = random.randint(1, 10)
     lista.append(szam)
 
@@ -9,3 +9,4 @@ for _ in range(5):
 
 print(f"A lista elemei: {lista}")
 print(f"A számok összege: {összeg}")
+
