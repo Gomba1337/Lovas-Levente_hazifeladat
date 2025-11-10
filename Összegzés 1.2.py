@@ -2,7 +2,7 @@ import random
 
 
 lista = []
-for _ in range(5):
+for x in range(5):
     szam = random.randint(1, 10)
     lista.append(szam)
 
@@ -13,3 +13,4 @@ for szam in lista:
 
 print(f"A lista elemei: {lista}")
 print(f"A páros számok összege: {összeg}")
+
